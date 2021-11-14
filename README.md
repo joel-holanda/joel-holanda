@@ -2,9 +2,12 @@
 Ola, Seja Bem-Vindo<br>
 Eu me chamo Joel Holanda
 </h1>
+<p>
+-🖥Desenvolvedor Web/ Front-end<br>
+</p>
 
 <div align="center">
-  <a href="https://github.com/joel-holand">
+  <a href="https://github.com/joel-holanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joel-holanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-holanda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -14,7 +17,7 @@ Eu me chamo Joel Holanda
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 </div>
