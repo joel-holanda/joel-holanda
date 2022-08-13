@@ -25,6 +25,7 @@ Eu me chamo Joel Holanda
 ##
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/joel_holand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joel-holanda/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-FFF?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
 </div>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
